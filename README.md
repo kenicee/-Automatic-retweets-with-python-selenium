@@ -1,3 +1,4 @@
-# Retweets-automaticos-con-python-selenium
-Lo que hace el programa es retweetiar el primer tweet que le aparezca luego se cierra y abre la siguiente cuenta, perfecto para creación de bots 
-Funciona con cuentas con la misma contraseña si alguna de esta cuenta esta bloqueada se la salteara completamente y seguira con la proxima
+
+# Automatic-retweets-with-python-selenium
+What the program does is retweet the first tweet that appears, then it closes and opens the next account, perfect for creating bots
+It works with accounts with the same password, if any of this account is blocked, it will skip it completely and continue with the next
